@@ -1,0 +1,15 @@
+/Users/kouqiyue/Desktop/master/git演示/net演示/bin/Debug/net10.0/net演示
+/Users/kouqiyue/Desktop/master/git演示/net演示/bin/Debug/net10.0/net演示.deps.json
+/Users/kouqiyue/Desktop/master/git演示/net演示/bin/Debug/net10.0/net演示.runtimeconfig.json
+/Users/kouqiyue/Desktop/master/git演示/net演示/bin/Debug/net10.0/net演示.dll
+/Users/kouqiyue/Desktop/master/git演示/net演示/bin/Debug/net10.0/net演示.pdb
+/Users/kouqiyue/Desktop/master/git演示/net演示/obj/Debug/net10.0/net演示.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kouqiyue/Desktop/master/git演示/net演示/obj/Debug/net10.0/net演示.AssemblyInfoInputs.cache
+/Users/kouqiyue/Desktop/master/git演示/net演示/obj/Debug/net10.0/net演示.AssemblyInfo.cs
+/Users/kouqiyue/Desktop/master/git演示/net演示/obj/Debug/net10.0/net演示.csproj.CoreCompileInputs.cache
+/Users/kouqiyue/Desktop/master/git演示/net演示/obj/Debug/net10.0/net演示.sourcelink.json
+/Users/kouqiyue/Desktop/master/git演示/net演示/obj/Debug/net10.0/net演示.dll
+/Users/kouqiyue/Desktop/master/git演示/net演示/obj/Debug/net10.0/refint/net演示.dll
+/Users/kouqiyue/Desktop/master/git演示/net演示/obj/Debug/net10.0/net演示.pdb
+/Users/kouqiyue/Desktop/master/git演示/net演示/obj/Debug/net10.0/net演示.genruntimeconfig.cache
+/Users/kouqiyue/Desktop/master/git演示/net演示/obj/Debug/net10.0/ref/net演示.dll
