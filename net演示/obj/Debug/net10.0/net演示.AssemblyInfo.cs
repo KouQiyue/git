@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("net演示")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a5f7ae621c07ab838cb9dbc8bb2fe9c4a56b1be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acb606aeba1df141e74c3ad4ded82cb430dd6f12")]
 [assembly: System.Reflection.AssemblyProductAttribute("net演示")]
 [assembly: System.Reflection.AssemblyTitleAttribute("net演示")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
